@@ -122,7 +122,6 @@ legend { margin-bottom: 30px;
 .notice, .notice .alert-heading {
   color: #468847;
 }
-.ui-datepicker-trigger { margin-left: 5px; }
 .navi-external { margin-left: 0; }
 .navi-external li { margin-right: 8px; display: inline; list-style: none; }
 .navi-external span { margin-right: 10px; }

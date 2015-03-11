@@ -42,6 +42,8 @@ gem 'spring',        group: :development
 gem 'devise'
 gem 'cancan'
 
+gem 'simple-navigation'
+
 group :test, :development do
   gem "webrat", "0.7.3", require: false
   gem "mocha", "~> 1.1", require: false
